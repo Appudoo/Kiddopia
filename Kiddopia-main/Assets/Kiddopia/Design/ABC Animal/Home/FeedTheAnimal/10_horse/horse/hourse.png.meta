@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 07cdbbe38a8ae0a4db55711cd1d64443
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hourse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee251b8bcc16e0d45beeb97386040739
+      internalID: -2089376621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_1
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457e7140c5d68534c87bbab232820fa6
+      internalID: -1832904441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_2
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0742f747c9224d85aca3986a789b1
+      internalID: 549361749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_3
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70108f0c6c5f54b94e7d2ef133f23d
+      internalID: 1330857524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_4
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9818d1c7fdd5604a8445535f9211893
+      internalID: -499832242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_5
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b10959c8024a3429be339fde641b35
+      internalID: -1783860586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_6
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 10094
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707fdeda49437741963a8b0cc482402
+      internalID: -974411887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0b5fc218f85241883fbc45e668f38
+      internalID: -578459829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_8
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6b8d24aab8a947b5fc92a2d3b09aa
+      internalID: -617763352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_9
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18a13b75befaaf4ea820c61e1b55f5f
+      internalID: -1483791294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_10
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d033f272a9288949b308efd7b7ea496
+      internalID: 518055324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_11
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f7c2a635c6de429669b4450b718f5
+      internalID: 1687463654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_12
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8901102ab5e654a94d99829a886a5d
+      internalID: -1176423572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_13
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 8652
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fd5f24970d3dc4497cd46b633f3df3
+      internalID: 278031736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e45ada959aa2499561c4cbabc2e2f
+      internalID: -1881931305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_15
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6a5bb9584c944ab8d2dc1916cc313
+      internalID: -1220983577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_16
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ef4faf36ca9c4d824991cc27febe0
+      internalID: -2062392995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_17
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70816f4b449b0043a57ecf64a1e4f01
+      internalID: -1188486127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_18
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fc67bfd67cce146b6713bd518560f1
+      internalID: 1222135228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_19
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572c8d4abb23ea49a037893e58774b0
+      internalID: -898416494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_20
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 7210
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a5cfdf2d8d044aa8f283970d4698c
+      internalID: 155992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddfe93110f6bc94c849bee7adc2493f
+      internalID: 1037513609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_22
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6612130513a014f9b7ff835772c95b
+      internalID: 1358734380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_23
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330aa32b9715c3a45b65784fdeb82858
+      internalID: -130576470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_24
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a20fdad81957004b8846f12bc7f3927
+      internalID: -313419305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_25
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853d6e503d96504390f875ec1ed2732
+      internalID: 1055798887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_26
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c3f93478742347b4a271449a23f02
+      internalID: 435909714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_27
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 5768
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5091f6c3a31e7c42b5dd3823ddd880e
+      internalID: 1107802419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8f65a3e4c0f94ca8fec9d985b166f
+      internalID: -881218418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_29
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e528021c1c79254598274886239acdf
+      internalID: 1481670837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_30
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08dbc44e8b676746afbe780401e7564
+      internalID: 671162840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_31
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3d8192a4a9ea4ba85b9c26323bf2a
+      internalID: -1537231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_32
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab63f97147c234a908f4d45bed48c0
+      internalID: -630969902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_33
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a299a11b369994799e38762749ab83
+      internalID: 488208568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_34
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 4326
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ec262101d22b4ab4347cae54dffd3
+      internalID: -935280788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4584cef7cae1f4b91295ebc24d52f9
+      internalID: -1619267434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_36
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac17fe2df535f4dbecea74db61b6e0
+      internalID: -285332501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_37
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ab316f693840448299e58fadbd853
+      internalID: 1985439062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_38
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528e62ce5b66064890079bfdb429ae5
+      internalID: 1809049452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_39
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb47605d5492440848bdf43d2d5ab3
+      internalID: -1612458644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_40
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdc492848e3ea24988250e88cd81b22
+      internalID: -1056304302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_41
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 2884
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b23ee7d8317c44a352ad05d5ba5e9
+      internalID: 1801532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627c847f2dd11948bef1bfc4d8097db
+      internalID: 1332319567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_43
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44720deca09e44d9ab2c2ce32f60d8
+      internalID: 543768027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_44
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad62c06c16c5f459fd591633efe019
+      internalID: -2036319790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_45
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62f686957043004784a47e04f17833c
+      internalID: -244972251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_46
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f0adbc4c9b8fc458538a8a2d50105d
+      internalID: -2050120939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_47
+      rect:
+        serializedVersion: 2
+        x: 7975
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0113885544c3e5a488711fc0484dd938
+      internalID: 1023266584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_48
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 1442
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9ac98c1a421f429ff116b9c7244ce
+      internalID: -2111003065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hourse_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1595
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b8c2a2000a5444b61e8d3d9326d5b
+      internalID: 649925576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hourse_0: -2089376621
+      hourse_1: -1832904441
+      hourse_10: 518055324
+      hourse_11: 1687463654
+      hourse_12: -1176423572
+      hourse_13: 278031736
+      hourse_14: -1881931305
+      hourse_15: -1220983577
+      hourse_16: -2062392995
+      hourse_17: -1188486127
+      hourse_18: 1222135228
+      hourse_19: -898416494
+      hourse_2: 549361749
+      hourse_20: 155992634
+      hourse_21: 1037513609
+      hourse_22: 1358734380
+      hourse_23: -130576470
+      hourse_24: -313419305
+      hourse_25: 1055798887
+      hourse_26: 435909714
+      hourse_27: 1107802419
+      hourse_28: -881218418
+      hourse_29: 1481670837
+      hourse_3: 1330857524
+      hourse_30: 671162840
+      hourse_31: -1537231336
+      hourse_32: -630969902
+      hourse_33: 488208568
+      hourse_34: -935280788
+      hourse_35: -1619267434
+      hourse_36: -285332501
+      hourse_37: 1985439062
+      hourse_38: 1809049452
+      hourse_39: -1612458644
+      hourse_4: -499832242
+      hourse_40: -1056304302
+      hourse_41: 1801532013
+      hourse_42: 1332319567
+      hourse_43: 543768027
+      hourse_44: -2036319790
+      hourse_45: -244972251
+      hourse_46: -2050120939
+      hourse_47: 1023266584
+      hourse_48: -2111003065
+      hourse_49: 649925576
+      hourse_5: -1783860586
+      hourse_6: -974411887
+      hourse_7: -578459829
+      hourse_8: -617763352
+      hourse_9: -1483791294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

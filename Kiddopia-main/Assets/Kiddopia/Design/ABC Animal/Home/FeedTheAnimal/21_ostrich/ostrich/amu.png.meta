@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 80f069921c76f8b4fb24ecaf0e2b8586
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: amu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb204dd4bab031848ae589612d24983f
+      internalID: 196164610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512af85af26bf124e84f83272e1ef118
+      internalID: -1505755670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_2
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c25952c6c17854a8c1efd03c7380e8
+      internalID: 918400382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_3
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf44d6d8bcd1e419129cfd2e12662b
+      internalID: 532767976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_4
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7cc7b6dcbc2e342a71e82b6720e9e7
+      internalID: -1887856480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_5
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7845d7efad3b949b1b99b15e160ec8
+      internalID: -1094817757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_6
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2469671c24185642a4b8eb72bf88810
+      internalID: 1642253538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_7
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e85a580ac888d4fbac0b749040958d
+      internalID: 694430182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_8
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b848402d7ac02f49bff0296d1f6d189
+      internalID: -288756329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_9
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 7936
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edb656d4be5aa4d8297138ec9a5236
+      internalID: -803304915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc80328a2cef4c45aa2d308c59e9973
+      internalID: -1166963436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_11
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e380a2d6669614d9a1e8c027b74f88
+      internalID: 1388695044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_12
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d0bfeb81e40b4d86b4d7a3f3e28e1
+      internalID: 1089623238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_13
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a2fc894181af4db59544d98808aa1
+      internalID: -564373539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_14
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53e5c646ae22743b94f96384c6898c
+      internalID: -140536404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_15
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdc3f056a41d5b4280f135ba45f53ec
+      internalID: 1323503177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_16
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea12d80c9197af40bfa3867f54b182d
+      internalID: -1445726192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_17
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189ab2d20460324eb289c0237e20899
+      internalID: -827835995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_18
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2e23c8776e8e241b7cddd85cc40154
+      internalID: -1249060999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_19
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 5952
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51911a6681fb54da395fd278798ae8
+      internalID: 689192777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7377d0271cbe4a24eaf10f2ccfcbf8c0
+      internalID: 2087780416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_21
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e597da6c4abd742b785655514b2c60
+      internalID: -2007726247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_22
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cbde62c441d9542b39bbc7afe61291
+      internalID: -254108907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_23
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59452bc5a292157469b04f639185a2b5
+      internalID: 2034865996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_24
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13577ed33f7cdf40bcd1f609d63a03f
+      internalID: 1208323680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_25
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa6e11d3ee1ea438460815fecf5239
+      internalID: 1735319751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_26
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1918c2d4e4a7f7d40b9b15b05f663065
+      internalID: 962093038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_27
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458918ac9906cc42abe4741fcccd897
+      internalID: 498839515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_28
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682b5b6ccb58ee42bcfb7ddb77d1f37
+      internalID: 1792407663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_29
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 3968
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc69302fecd59f4388131868b8d67da
+      internalID: -2029957506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbfa0420e2d744479e7eed2f2f7d4bf
+      internalID: -749399693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_31
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53702b334c2bbc478c37c0c5815a90c
+      internalID: -658159791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_32
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa7232631d21f4d9fc87f13a0eb6b4
+      internalID: 1245568329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_33
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0129ddad3da38f8449ce13db99f3c6d1
+      internalID: 122552462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_34
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984483e025b8594ab956c7256979f4d
+      internalID: -143045261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_35
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52278e00b40454a91040363248680b
+      internalID: -1199884443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_36
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4665d3b5ad0454243ac6e1f05fc71506
+      internalID: 617385636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_37
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56224343ccbb2f44ea737845acf9d98d
+      internalID: 324885553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_38
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29d688208000864abb430beb50c5d02
+      internalID: 2122012495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_39
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 1984
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc545c4b7f325418636aa8ec8fb7c6
+      internalID: 1431400949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c97565ac9f7c44994214dc4e27a36
+      internalID: 1506229853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_41
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442b89df8a13064fb8bc2d5c0152098
+      internalID: 1387022893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_42
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826493f7afe6a9949a89f23b0ec89edd
+      internalID: 2059237863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_43
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096e13c92dca28b499f02ae7fee2b47c
+      internalID: -1422653624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_44
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7feeb6ba2d4bf844b80e9f567edc365
+      internalID: 1441162404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_45
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24605a9a9508e944a8aff40e56a3a900
+      internalID: -1817946708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_46
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e7e042b29dc14db1fc665207a9bb0
+      internalID: -170706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_47
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ceac533e476254c943da5d901fdbfe
+      internalID: -1584806351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_48
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb959f05a1df3f4182e5a9ccbba0df5
+      internalID: -724840121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: amu_49
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 0
+        width: 1216
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb09cbd3171214c97cad377851a477
+      internalID: -291822245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      amu_0: 196164610
+      amu_1: -1505755670
+      amu_10: -1166963436
+      amu_11: 1388695044
+      amu_12: 1089623238
+      amu_13: -564373539
+      amu_14: -140536404
+      amu_15: 1323503177
+      amu_16: -1445726192
+      amu_17: -827835995
+      amu_18: -1249060999
+      amu_19: 689192777
+      amu_2: 918400382
+      amu_20: 2087780416
+      amu_21: -2007726247
+      amu_22: -254108907
+      amu_23: 2034865996
+      amu_24: 1208323680
+      amu_25: 1735319751
+      amu_26: 962093038
+      amu_27: 498839515
+      amu_28: 1792407663
+      amu_29: -2029957506
+      amu_3: 532767976
+      amu_30: -749399693
+      amu_31: -658159791
+      amu_32: 1245568329
+      amu_33: 122552462
+      amu_34: -143045261
+      amu_35: -1199884443
+      amu_36: 617385636
+      amu_37: 324885553
+      amu_38: 2122012495
+      amu_39: 1431400949
+      amu_4: -1887856480
+      amu_40: 1506229853
+      amu_41: 1387022893
+      amu_42: 2059237863
+      amu_43: -1422653624
+      amu_44: 1441162404
+      amu_45: -1817946708
+      amu_46: -170706389
+      amu_47: -1584806351
+      amu_48: -724840121
+      amu_49: -291822245
+      amu_5: -1094817757
+      amu_6: 1642253538
+      amu_7: 694430182
+      amu_8: -288756329
+      amu_9: -803304915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

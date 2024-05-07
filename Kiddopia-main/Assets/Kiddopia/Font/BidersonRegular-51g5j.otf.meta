@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e578d57016c1d9f41b4f58fe5d0cf12c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Biderson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 916587cf616919b4387a7296658740ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

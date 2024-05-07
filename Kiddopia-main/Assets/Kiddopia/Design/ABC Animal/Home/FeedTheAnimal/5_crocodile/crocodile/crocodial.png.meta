@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 50178a9bc4440aa4f97c1f6671fd1d26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crocodial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4378bc2951bceb449e39fce5420dfb8
+      internalID: -1101399414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3500
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46511d831e93ed84abd8c66d6a6c7a96
+      internalID: -814135319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_2
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3500
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9f793bbcf8da43bd0ac648445305e
+      internalID: -1485005055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_3
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 3500
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41c9e26b9383842855c4cad3b330f7
+      internalID: -884398091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_4
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3500
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609ef1ed6b69c34aac2d7710d3912fe
+      internalID: 1228718716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07999b80ff92248b819ccc81aed5e6
+      internalID: -848879786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3150
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dfa4650c92da648afd295fc6c34052
+      internalID: -1862576299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_7
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3150
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b695bdd5e16af848a4f56dee1840b09
+      internalID: 896969934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_8
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 3150
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94410cfdf9408964986284d7276afa19
+      internalID: -720332067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_9
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 3150
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2fa25a77b7fda418a77d2136c59a0c
+      internalID: -2122202339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c259d27d85c3349b2835f4c82b60db
+      internalID: 173686519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2800
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f72aefa971f0f4dbf31c8a8ff9e6d2
+      internalID: 1553716421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_12
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2800
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a5d1a9d46d7547834d2bb255aab9e
+      internalID: 571185172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_13
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2800
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cce9961c63624caa6c70bcf6f2df9
+      internalID: -965328674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_14
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2800
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf926b4bff717f44824b4147177cd70
+      internalID: 87033347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933105343279b2f42ab9044df08a6d89
+      internalID: 1588961075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_16
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2450
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1358fc15b1cc60a478bd23792d96638d
+      internalID: -819438777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_17
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2450
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7755611e75ced8a4e8183f223f949f30
+      internalID: -118894647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_18
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2450
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3e6cea2cd63b47967a8216083284e
+      internalID: -376166871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_19
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2450
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb2d8520610b1469936b71d0abbf3f
+      internalID: 1834834146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32b29f524f7b840bf09dcb72c3a91e
+      internalID: -727496277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_21
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2100
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df58c49fed62641bdd83e44dd21c74
+      internalID: 1824173889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_22
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2100
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf34454447a3d7439a32bf12723d600
+      internalID: 1185398814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_23
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2100
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a913866774db6429bf8ca63141da8b
+      internalID: 930486239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_24
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2100
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5b442f9ef249447ba7b6c9cf9175a4
+      internalID: -233307156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab72371a7f330794c8943314d138aff4
+      internalID: 455726068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1750
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa251b05e6efe9e47982c4844245cfbd
+      internalID: 1335472619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_27
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1750
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95b7dde02b1e34baba8d723cfe96f5
+      internalID: -2097401707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_28
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1750
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a82b4369ca26048813dc1583fce179
+      internalID: -1555804002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_29
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1750
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7c518c8aa6254c852287733b1ef6b
+      internalID: 255583556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f38bdf84f12334fb74113d6525c500
+      internalID: -1453547413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_31
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1400
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec87d0ee3b53254a84ca3fdff033341
+      internalID: 839265628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_32
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1400
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae95f713079f140b0880493479017d
+      internalID: -225232401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_33
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1400
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377ed85b21f6554a94f8f4505fe3da7
+      internalID: 1045556202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7166f3426cdac4f8c6255e6dc88d4a
+      internalID: 90930888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_35
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1050
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823b3b9ee24c064097781d00cbc53df
+      internalID: -1249559613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_36
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1050
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390546fa842502a40bbe61c575948ac2
+      internalID: 1887746160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_37
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1050
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665179c8a3478ca4592951da5b73e62a
+      internalID: 354528104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b616e966695644c4a81fe03e8310ef24
+      internalID: 879891163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_39
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 700
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0056f3edd934cac4aa8758858d832ac5
+      internalID: -175447825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_40
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 700
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af774783ffd0c0f4ba1bd9cb58474282
+      internalID: 1098840927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_41
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 700
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca676cc2d7d084197cddae2c0531e0
+      internalID: -1691226223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d36bea3886a74a870fc19ceb52bcf
+      internalID: -916059248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_43
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 350
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad26d70084e4846bc444bdd94f7b1a
+      internalID: -2074317758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_44
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 350
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf277a6f410e064ab7c22c64cd5b338
+      internalID: 1584814308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_45
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 350
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab3183249832b47833aa0fb7810325
+      internalID: -1671539170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757d598a8cbd4d43897884c5c61ea95
+      internalID: -1269700268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_47
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09466c21f32ea4394326db2a64525a
+      internalID: 1046848642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_48
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d7873994fd994f9651384fe53d75f
+      internalID: 1943628975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodial_49
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 0
+        width: 883
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae0fec9228768459ea2db8fdd7b1c9
+      internalID: -153259382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crocodial_0: -1101399414
+      crocodial_1: -814135319
+      crocodial_10: 173686519
+      crocodial_11: 1553716421
+      crocodial_12: 571185172
+      crocodial_13: -965328674
+      crocodial_14: 87033347
+      crocodial_15: 1588961075
+      crocodial_16: -819438777
+      crocodial_17: -118894647
+      crocodial_18: -376166871
+      crocodial_19: 1834834146
+      crocodial_2: -1485005055
+      crocodial_20: -727496277
+      crocodial_21: 1824173889
+      crocodial_22: 1185398814
+      crocodial_23: 930486239
+      crocodial_24: -233307156
+      crocodial_25: 455726068
+      crocodial_26: 1335472619
+      crocodial_27: -2097401707
+      crocodial_28: -1555804002
+      crocodial_29: 255583556
+      crocodial_3: -884398091
+      crocodial_30: -1453547413
+      crocodial_31: 839265628
+      crocodial_32: -225232401
+      crocodial_33: 1045556202
+      crocodial_34: 90930888
+      crocodial_35: -1249559613
+      crocodial_36: 1887746160
+      crocodial_37: 354528104
+      crocodial_38: 879891163
+      crocodial_39: -175447825
+      crocodial_4: 1228718716
+      crocodial_40: 1098840927
+      crocodial_41: -1691226223
+      crocodial_42: -916059248
+      crocodial_43: -2074317758
+      crocodial_44: 1584814308
+      crocodial_45: -1671539170
+      crocodial_46: -1269700268
+      crocodial_47: 1046848642
+      crocodial_48: 1943628975
+      crocodial_49: -153259382
+      crocodial_5: -848879786
+      crocodial_6: -1862576299
+      crocodial_7: 896969934
+      crocodial_8: -720332067
+      crocodial_9: -2122202339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

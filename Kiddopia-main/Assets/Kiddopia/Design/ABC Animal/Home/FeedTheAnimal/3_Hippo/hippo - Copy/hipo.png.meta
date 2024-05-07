@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 5a45acec744f9b543a1cbd0951bc98a4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hipo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af522c640bc50254397e80436a0d7610
+      internalID: -557928237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_1
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d472bdb1187740b633859e8ef326b
+      internalID: -1707659970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_2
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b5622cb8b6baa4d88eea9d4c1893cc
+      internalID: -465393983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_3
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277aad913096804c88bc21866a6372b
+      internalID: -1438091860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_4
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d9dae3e2f891469436e86f27b8df3
+      internalID: -520100947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_5
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134112d307a273409670018d5f8fb85
+      internalID: -326844231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_6
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 6650
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067bdbb6182b054f8e03e50e6a18ec0
+      internalID: 402354980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a5327e2c5e6e44951152363abc738
+      internalID: -1848226563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_8
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2292cff07c4378845bffe0f0b873c49a
+      internalID: 1625227255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_9
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9666befb7686d4e89792a263cef2fe
+      internalID: 325891196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_10
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6e41c9a2e676b408f2201445976c76
+      internalID: 1068497618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_11
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25727a66fde11a2498d2ba2157036985
+      internalID: -431930259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_12
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042a527920c720469a1a4b6c5b9c855
+      internalID: -1205466256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_13
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 5700
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef42142a776b87409b0987d83df1941
+      internalID: -421325700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6dea1fc4e101f44995f7f94aa6c438
+      internalID: -698412185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a776005634b04bb14ddcc4bb2dd57
+      internalID: -16730552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_16
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec88da59fa2ee4b80713a84f60d08f
+      internalID: 37150405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_17
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf78d7fbafbd6e42b173f1d22bde896
+      internalID: -2144540471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_18
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287247bb3737e34685e340a0dee7de3
+      internalID: -1094277492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_19
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 4750
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ea0b7a7a199c4386c6c7f0b72b877
+      internalID: 1492446899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9938ab4c74b36244addeaf51842bca6
+      internalID: -177075483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_21
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8a39c035fd094d8d15c9dd8b61b33
+      internalID: 83387289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_22
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa63c83d4e2b643aede4f1b1d70779
+      internalID: 1751151302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_23
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de69e28fac36ba74f8d8cc8c9ab37440
+      internalID: 1857579745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_24
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a31c07f4a49184889140318a614666
+      internalID: 424026163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_25
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 3800
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12acfa0bb34708940911242cec12fb91
+      internalID: -1649040392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f70129019a2dd468620351dd302040
+      internalID: 673963976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_27
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3768a29908415a40bea42721344c425
+      internalID: -1465069556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_28
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d502b72e2372ef42a263a6ebcd38de5
+      internalID: -1145055476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_29
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8dee9bb309fc468eb516475b3f23d
+      internalID: -388846002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_30
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637dbceb46c85894ca5c3eea1e744173
+      internalID: -2134660025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_31
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 2850
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ceb7761639d14a9ac3dbe89f07c35
+      internalID: 373814568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ed4ecf72913a4ca1b45f95be99c4d
+      internalID: -1206456644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_33
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ae5966ea9d7e448849fff5aa4e882
+      internalID: -1043429629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_34
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcdd7c8f136a704698a2923da29aaee
+      internalID: 2079935702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_35
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0163738fc03336044a49a917b56f6919
+      internalID: -1790133581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_36
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b31a4b3b4dee48984201eb1035bcc
+      internalID: 1822238552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_37
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 1900
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64290d7917f56484bba5152fd671e909
+      internalID: -1129980091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911758700ee2c947b7c4880bfc8f051
+      internalID: -305833139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_39
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997816faa9c5eb4eb14010b2846bb91
+      internalID: 1655017295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_40
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8276239f5711a4ea564256b8f22adf
+      internalID: -910286746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_41
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27f3e083b563634f9cfafb985c29400
+      internalID: 694189310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_42
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c37fc6f3d57447a1c4054e06a4be9
+      internalID: -906985555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_43
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 950
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfff583143d1e84da6e54a2774ddacc
+      internalID: 1259442287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db4abbe602a684784d2c104629c90b
+      internalID: 164679898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_45
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbd3a8d9cf41e94babdd204bfc8a3a3
+      internalID: -15832357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_46
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb13cde2b82a8e42a9d0572d08dbe54
+      internalID: -938591624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_47
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0f196b2af9ea4a8a5e45b8a639cfa
+      internalID: 1754603213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_48
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d01f049e392a48aa09aa9d8b94ddb
+      internalID: -1310575499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hipo_49
+      rect:
+        serializedVersion: 2
+        x: 6335
+        y: 0
+        width: 1267
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320a06e15fbdef40b1c30b4b5b34b00
+      internalID: -1198405596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hipo_0: -557928237
+      hipo_1: -1707659970
+      hipo_10: 1068497618
+      hipo_11: -431930259
+      hipo_12: -1205466256
+      hipo_13: -421325700
+      hipo_14: -698412185
+      hipo_15: -16730552
+      hipo_16: 37150405
+      hipo_17: -2144540471
+      hipo_18: -1094277492
+      hipo_19: 1492446899
+      hipo_2: -465393983
+      hipo_20: -177075483
+      hipo_21: 83387289
+      hipo_22: 1751151302
+      hipo_23: 1857579745
+      hipo_24: 424026163
+      hipo_25: -1649040392
+      hipo_26: 673963976
+      hipo_27: -1465069556
+      hipo_28: -1145055476
+      hipo_29: -388846002
+      hipo_3: -1438091860
+      hipo_30: -2134660025
+      hipo_31: 373814568
+      hipo_32: -1206456644
+      hipo_33: -1043429629
+      hipo_34: 2079935702
+      hipo_35: -1790133581
+      hipo_36: 1822238552
+      hipo_37: -1129980091
+      hipo_38: -305833139
+      hipo_39: 1655017295
+      hipo_4: -520100947
+      hipo_40: -910286746
+      hipo_41: 694189310
+      hipo_42: -906985555
+      hipo_43: 1259442287
+      hipo_44: 164679898
+      hipo_45: -15832357
+      hipo_46: -938591624
+      hipo_47: 1754603213
+      hipo_48: -1310575499
+      hipo_49: -1198405596
+      hipo_5: -326844231
+      hipo_6: 402354980
+      hipo_7: -1848226563
+      hipo_8: 1625227255
+      hipo_9: 325891196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

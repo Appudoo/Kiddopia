@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6507134369193501390
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1529080663837095283}
+  - component: {fileID: 861290351983115874}
+  m_Layer: 0
+  m_Name: Bath
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1529080663837095283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6507134369193501390}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &861290351983115874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6507134369193501390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2470be414d786f64ab0e507dd13ee4ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BathANimalLvl:
+  - {fileID: 7586269576998795067, guid: fb6ce8f84610bc648b50d131be258aac, type: 3}
+  - {fileID: 7586269576998795067, guid: 925175fb30fa34444a807a247bf26428, type: 3}
+  - {fileID: 7586269576998795067, guid: e4e50aff8de56064ea3dea459a2850b1, type: 3}
+  - {fileID: 7586269576998795067, guid: bbc2f8381cf76e74cb440e975aeaa7bf, type: 3}
+  - {fileID: 7586269576998795067, guid: abc76494fe1050c46839ef472dd10d1d, type: 3}
+  - {fileID: 7586269576998795067, guid: 2c3c496ba70d8d74ab8cd8ee3a1631bb, type: 3}
+  - {fileID: 7586269576998795067, guid: bc79720a7393de949b75013b32143a75, type: 3}
+  - {fileID: 7586269576998795067, guid: d6238808f283e5c4c9b9858540baef1f, type: 3}
+  - {fileID: 7586269576998795067, guid: 871e2302dbacc19439b5a2660f297f3b, type: 3}
+  - {fileID: 7586269576998795067, guid: 50d37fff7160c0c43b4abfe544b68411, type: 3}
+  - {fileID: 7586269576998795067, guid: 9d48ed3524769174d9dd3873a2ab7d75, type: 3}
